@@ -1,3 +1,3 @@
-# Desfio Decodificador 
+# Desfio Conversor 
 
-Desafio desenvolver um conversor do Bootcamp da Oracle com a Alura.
+Desafio desenvolver um conversor de moedas e temperatura do Bootcamp da Oracle com a Alura.
